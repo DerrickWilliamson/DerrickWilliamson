@@ -21,7 +21,7 @@ An overview of what I've been doing:
 
 ### Languages and Tools:
 
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python)![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart)![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=for-the-badge&logo=google-cloud)![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)![Kotlin](https://img.shields.io/badge/Kotlin-pink?style=for-the-badge&logo=kotlin)![Vue 2](https://img.shields.io/badge/vue-2.x-brightgreen.svg?style=for-the-badge&logo=vue)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python)![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart)![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)![GCP](https://img.shields.io/badge/Google_Cloud-lightgrey?style=for-the-badge&logo=google-cloud)![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)![Java](https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java)![Kotlin](https://img.shields.io/badge/Kotlin-pink?style=for-the-badge&logo=kotlin)!
 
 <br />
 <br />
