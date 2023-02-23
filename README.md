@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Derrick
+### Hi there 👋
 
 Thanks for stopping by my portfolio!  I'm a mobile application developer who specializes in building cross-platform applications via Flutter.  Please take a look around and checkout some fun facts about me below.  I'm always glad to make new connections on LinkedIn and here on GitHub!
 
