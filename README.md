@@ -8,6 +8,6 @@
 - 📫 How to reach me: LinkedIn
 - ⚡ Fun fact: When I was 17 years old, I was struck by lightening and got caught in a stampede
 
-Testing...
+An overview of what I've been doing:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DerrickWilliamson&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
