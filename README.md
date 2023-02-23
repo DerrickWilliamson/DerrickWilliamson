@@ -14,6 +14,9 @@ An overview of what I've been doing:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DerrickWilliamson&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
+---
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaglarKullu)](https://github.com/anuraghazra/github-readme-stats)
+
 🧰 Toolbox
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" alt="Dart" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" alt="SQlite" width="50" height="50"/>  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" alt="Firebase" width="50" height="50"/> <img 
