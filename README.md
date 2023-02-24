@@ -6,7 +6,7 @@ Thanks for stopping by my portfolio!  I'm a mobile application developer who spe
 - 🌱 I’m currently learning BLoC State Management
 - 👯 I’m looking to collaborate on projects that deal with Flutter and Firebase
 - 🤔 I’m looking for help with building better UIs for Flutter apps
-- 💬 Ask me about space travel
+- 💬 Ask me about anything and especially about space travel
 - 📫 How to reach me:  [![My Linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-williamson/) 
 - ⚡ Fun fact: When I was 17 years old, I was struck by lightening and got caught in a stampede
 
