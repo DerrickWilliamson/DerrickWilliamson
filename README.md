@@ -19,4 +19,4 @@ An overview of what I've been doing:
 
 ### Languages and Tools:
 
-![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python)![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart)[Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)!
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)![Python](https://img.shields.io/badge/Python-lightgrey?style=for-the-badge&logo=python)![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart)![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)!
