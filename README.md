@@ -10,8 +10,6 @@ Thanks for stopping by my portfolio!  I'm a mobile application developer who spe
 - 📫 How to reach me:  [![My Linkedin account](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-williamson/) 
 - ⚡ Fun fact: When I was 17 years old, I was struck by lightening and got caught in a stampede
 
-An overview of what I've been doing:
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DerrickWilliamson&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
