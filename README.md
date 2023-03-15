@@ -20,5 +20,6 @@ Thanks for stopping by my portfolio!  I'm a mobile application developer who spe
 ![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge&logo=visual-studio-code)
 ![Firebase](https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase&)
 ![Flutter](https://img.shields.io/badge/Flutter-informational?style=for-the-badge&logo=flutter)
-![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart)
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github)
+![Dart](https://img.shields.io/badge/Dart-informational?style=for-the-badge&logo=dart)
+
