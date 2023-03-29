@@ -3,7 +3,7 @@
 Thanks for stopping by my portfolio!  I'm a mobile application developer who specializes in building cross-platform applications via Flutter.  Please take a look around and checkout some fun facts about me below.  I always enjoy making new connections on LinkedIn and here on GitHub!
 
 - 🔭 I’m currently working on a travel app for space flight
-- 🌱 I’m currently learning BLoC pattern
+- 🌱 I’m currently learning BLoC pattern and pagination
 - 👯 I’m looking to collaborate on projects that deal with Flutter and Firebase
 - 🤔 I’m looking for help with building better UIs for Flutter apps
 - 💬 Ask me about anything and especially about space travel
